@@ -1,0 +1,6 @@
+﻿  App.c
+  Server.c
+D:\fwdddd\New folder\Payment_Application_project\Payment_Application_new\Payment_Application_new\Server.c(35,45): warning C4047: 'initializing': 'ST_accountsDB_t *' differs in levels of indirection from 'ST_accountsDB_t (*)[255]'
+D:\fwdddd\New folder\Payment_Application_project\Payment_Application_new\Payment_Application_new\Server.c(177,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Payment_Application_new.vcxproj -> D:\fwdddd\New folder\Payment_Application_project\Payment_Application_new\x64\Debug\Payment_Application_new.exe
